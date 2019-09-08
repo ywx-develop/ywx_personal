@@ -1,2 +1,2 @@
 # ywx_personal
-personal learn
+学习总结
